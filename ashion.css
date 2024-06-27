@@ -329,13 +329,13 @@
 .product {
     width: 100%;
     height: 150vh;
-    background-color: white;
+    /* background-color: white; */
     padding: 0 200px;
 }
 .product .prodm{
     width: 100%;
     height: 12%;
-    background-color: aqua;
+    /* background-color: aqua; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -403,7 +403,7 @@
 .product .picpro .pic1 .up .emoji{
     width: 100%;
     height: 20%;
-    background-color: darkturquoise;
+    /* background-color: darkturquoise; */
     position: absolute;
     bottom: -20%;
     display: flex;
@@ -516,7 +516,7 @@
 .product .picpro .pic2 .up .emoji{
     width: 100%;
     height: 20%;
-    background-color: darkturquoise;
+    /* background-color: darkturquoise; */
     position: absolute;
     bottom: -20%;
     display: flex;
@@ -629,7 +629,7 @@
 .product .picpro .pic3 .up .emoji{
     width: 100%;
     height: 20%;
-    background-color: darkturquoise;
+    /* background-color: darkturquoise; */
     position: absolute;
     bottom: -20%;
     display: flex;
@@ -742,7 +742,7 @@
 .product .picpro .pic4 .up .emoji{
     width: 100%;
     height: 20%;
-    background-color: darkturquoise;
+    /* background-color: darkturquoise; */
     position: absolute;
     bottom: -20%;
     display: flex;
@@ -859,7 +859,7 @@
   .collection .text-col {
     width: 60%;
     height: 100%;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
     position: absolute;
     top: 0;
     left: 20%;
@@ -879,7 +879,7 @@
   .collection .text-col .box-text {
     width: 700px;
     height: auto;
-    background-color: burlywood;
+    /* background-color: burlywood; */
     /* margin: 0 auto; */
     text-align: center;
     animation-name: run;
